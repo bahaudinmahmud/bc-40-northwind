@@ -1,1 +1,3 @@
 This will be the configuration and start if the program
+
+push dari category
